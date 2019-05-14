@@ -5,6 +5,9 @@
     "node": "10.15.2"
   },
   "description": "",
+  "engines": {
+    "node": "10.15.2"
+  },
   "private": true,
   "proxy": "http://localhost:3001",
   "scripts": {
