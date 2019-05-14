@@ -1,6 +1,9 @@
 {
   "name": "Clicky-Game",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.15.2"
+  },
   "description": "",
   "private": true,
   "proxy": "http://localhost:3001",
