@@ -1,0 +1,11 @@
+#.gitignore
+
+```
+src/*
+public/*
+build/static/css/*.map
+build/static/js/*.map
+node_modules
+.DS_Store
+.env
+```
